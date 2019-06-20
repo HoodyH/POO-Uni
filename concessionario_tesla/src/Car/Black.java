@@ -23,6 +23,6 @@ public class Black extends CarDecorator{
 
     @Override
     public String getDescription() {
-        return super.getDescription() + ", with 75kw battery";
+        return super.getDescription() + ", color black";
     }
 }

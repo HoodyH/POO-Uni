@@ -19,7 +19,7 @@ public class OrderCar {
         int max = 9999999;
         String serial_n = String.valueOf(rand.nextInt((max - min) + 1) + min);
 
-        car = new TeslaCar(serial_n, "X");
+        car = new TeslaCar(serial_n, "x");
     }
 
     public void setBattery(String type){
