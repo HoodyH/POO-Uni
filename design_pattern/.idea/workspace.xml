@@ -2,62 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ff327a-2749-4137-b8d2-a94ed89b7b9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/ambulatorio_dentistico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Ambulatorio/Ambulatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Ambulatorio/Stanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Paziente/Appuntamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Paziente/Paziente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Personale/Dottore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Personale/Igenista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Personale/Personale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Trattamento/Trattamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Trattamento/TrattamentoBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Trattamento/TrattamentoCarie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Trattamento/TrattamentoDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Trattamento/TrattamentoIgene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/concessionario_tesla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Buy/OrderCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Car/Black.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Car/CarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Car/TeslaCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Car/with75KwBattery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/Find/Find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/TestDrive/CreateTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/TestDrive/TestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../concessionario_tesla/src/TestDrive/TestDriveModelX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/Buy/OrderCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/Car/Black.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/Car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/Car/CarDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/Car/TeslaCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/Car/with75KwBattery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/META-INF/concessionario_tesla.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/TestDrive/CreateTestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/TestDrive/TestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/out/production/concessionario_tesla/TestDrive/TestDriveModelX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Buy/OrderCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Car/Black.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Car/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Car/CarDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Car/TeslaCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Car/with75KwBattery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/Find/Find.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/TestDrive/CreateTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/TestDrive/TestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../concessionario/src/TestDrive/TestDriveModelX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Ambulatorio/Ambulatorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ambulatorio_dentistico/src/Ambulatorio/Ambulatorio.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -320,12 +265,12 @@
       <workItem from="1560947523222" duration="301000" />
       <workItem from="1560947859517" duration="3762000" />
       <workItem from="1560981341948" duration="773000" />
-      <workItem from="1561019542555" duration="1067000" />
+      <workItem from="1561019542555" duration="1338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21945000" />
+    <option name="totallyTimeSpent" value="22216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3907" y="-2" width="1691" height="1082" extended-state="4" />

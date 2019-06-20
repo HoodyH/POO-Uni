@@ -32,9 +32,10 @@ public class Ambulatorio {
         for (Stanza stanza : stanze){
             for(Appuntamento appuntamento : appuntamenti){
                 //controlla l'ora
+                return "";
             }
         }
-
+        return "";
     }
 
     public Boolean medicoLibero(Personale medico, Date data, Time tempo){
